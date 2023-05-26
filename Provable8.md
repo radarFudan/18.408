@@ -8,7 +8,7 @@
 
 Word-By-Document Matrix
 
-    The $i$-th row, $j$-th column is the relative frequency of word i in document j.
+The \(i\)-th row, $j$-th column is the relative frequency of word i in document j.
 
 
 $M = A W,  M \in \mathbb{R}^{m, n}, A \in \mathbb{R}^{m, r}, W \in \mathbb{R}^{r, n}$
